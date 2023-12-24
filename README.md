@@ -31,5 +31,6 @@ Apple ID 注册方法：
 
 目前无法完成你的请求
 此时无法创建你的账户。
+
 Your request could not be completed at this time.
 Your account cannot be created at this time.
